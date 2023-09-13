@@ -18,3 +18,32 @@
 ![Screenshot (1815)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/b2744cd5-3ad7-45d8-9d50-13738a55b0e1)
 ![Screenshot (1816)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/54b1662c-ed87-4471-ab05-b728d5ca64ac)
 
+
+#GDSC
+
+![Screenshot (1790)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/4091ffcd-31cf-46ad-aaf9-f8941f2bfc59)
+![Screenshot (1791)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/6529b5bc-412a-4132-9edb-bfc48232c561)
+![Screenshot (1792)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/7d0521e7-18f4-4bcc-9c07-97ad2874abf1)
+![Screenshot (1793)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/ef11b5cf-b589-45d1-a5c8-ae33a41e6314)
+![Screenshot (1794)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/ae4fe7c4-3ee1-422e-9d54-b3875db08329)
+![Screenshot (1795)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/d759bf04-9763-4005-959e-465230cdaeb0)
+
+
+#SYNAPSE
+
+*html *css
+![Screenshot (1817)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/3e3b686e-24f1-4870-9996-85a01742026f)
+![Screenshot (1818)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/32d4c1fb-6f1d-458b-be38-86bd8ebfd985)
+![Screenshot (1819)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/696eb75d-bc45-49ae-bdee-e9a3c92e3d49)
+![Screenshot (1820)](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/23f0cb88-9e02-4376-ab38-3b1b6357892a)
+
+*react
+![ss1](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/4690c1a7-081a-4797-8ce2-1cb6d21f5c00)
+![ss2](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/d78b9c41-3d7c-44f6-a771-70358415a4e0)
+![ss3](https://github.com/VishwaJarsaniya/frontendTasks/assets/143692465/f9f4cca4-af86-4da1-a1be-2324e3f4f047)
+
+
+
+
+
+
